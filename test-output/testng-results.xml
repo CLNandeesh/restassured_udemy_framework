@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T06:45:26Z" name="Default suite" finished-at="2022-11-18T06:45:29Z" duration-ms="2986">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T06:45:26Z" name="Default test" finished-at="2022-11-18T06:45:29Z" duration-ms="2986">
+      <class name="test.PlaylistTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.PlaylistTests@71329995]" started-at="2022-11-18T06:45:26Z" name="setup" finished-at="2022-11-18T06:45:27Z" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createPlaylistUsingPojo()[pri:0, instance:test.PlaylistTests@71329995]" started-at="2022-11-18T06:45:27Z" name="createPlaylistUsingPojo" finished-at="2022-11-18T06:45:29Z" duration-ms="1851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPlaylistUsingPojo -->
+      </class> <!-- test.PlaylistTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
